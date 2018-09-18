@@ -1,2 +1,5 @@
 # Hallo_world
-First git test
+First git test prepisany
+:::: hallo
+::::
+skuska
